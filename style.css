@@ -1,0 +1,9 @@
+.container{
+    position: relative;
+    text-align: center;
+}
+.buttom{
+    position: relative;
+    bottom: 220px;
+}
+
