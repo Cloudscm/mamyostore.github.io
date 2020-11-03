@@ -1,0 +1,48 @@
+
+
+
+
+
+.logo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.logo_img{
+    height: 100px;
+    background-repeat: repeat;
+}
+.nav{
+    background: rgb(47, 4, 240);
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+.nav ul{  
+    text-align: center;
+    padding: 5px;
+    //margin-left: 69.6px;
+    //margin-right: 69.6px;
+    margin-bottom: 0px;
+}
+.nav ul li a{
+    color: white;
+}
+.content{
+    text-align: match-parent;
+    margin-top: 20px;
+}
+.footer{
+    background: rgb(253, 95, 4);
+    text-align: center;
+    color: seashell;
+}
+table{
+    border: 2px solid black;
+}
+.about_us{
+    text-align: center;
+}
+.img-circle{
+    height: 100px;
+}
