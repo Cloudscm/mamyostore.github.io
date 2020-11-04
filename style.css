@@ -14,11 +14,20 @@
     }
 }
 .scm{
-    font-size: 30px;
+    font-size: 90px;
     font-family:'T imes New Roman', Georgia, Times, serif;
     font-weight: lighter;
-    color: thistle;
+    color: #d8bfd8;
 }
 h1{
     color: thistle;
+}
+.slice{
+    margin-top: 60px;
+}
+.logo{
+    width: 200px;
+    opacity: 0.5;
+    border-radius: 500px;
+    margin-top: 5px;
 }
