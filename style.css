@@ -1,14 +1,16 @@
-.scm{
-    font-size: xx-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.container-fluid{
+    position: relative;
+    text-align: center;
 }
-@media (min-width: 600px) {
-    body{
-        background-color:burlywood;
-    }
+.buttom{
+    position: relative;
+    bottom: 220px;
 }
-@media (max-width: 599px) {
-    body {
-        background-color: rgb(183, 183, 214);
-    }
+.container-fluid{
+    position: relative;
+    text-align: center;
+}
+.buttom{
+    position: relative;
+    bottom: 220px;
 }
