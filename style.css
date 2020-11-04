@@ -1,15 +1,24 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
 @media (min-width: 600px) {
     body{
-        background-color: #ffff;
+        background-color: rgb(21, 0, 62);
     }
 }
 @media (max-width: 599px) {
     body {
-        background-color: rgb(143, 175, 163);
+        background-color: rgb(21, 0, 62);
     }
 }
 .scm{
-    font-size: 50px;
+    font-size: 30px;
     font-family:'T imes New Roman', Georgia, Times, serif;
     font-weight: lighter;
+    color: thistle;
+}
+h1{
+    color: thistle;
 }
