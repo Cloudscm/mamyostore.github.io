@@ -19,11 +19,11 @@ html,body{
 
 h1,#abtT{
     color: rgba(77, 255, 255, 0.541);
-    font-size:50PX;
+    font-size:40PX;
     font-weight: 500;
     font-family: initial;
     text-decoration-line: underline;
-    text-decoration-style: wavy
+    text-decoration-style: double
 }
 
 #musiclist{
